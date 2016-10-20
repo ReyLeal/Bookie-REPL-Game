@@ -1,0 +1,1 @@
+Bookie.rb is a game that allows the user to place bets on the outcome of different sports games. The basketball hoop file is neseccary to download if you wish to display the basketball hoop ASCII art in the terminal, however you can simply comment it out if you dont want to display it.
